@@ -10,7 +10,7 @@ s.license      = { :type => "MIT", :file => "license" }
 s.author       = { "Ilyas Ikhsanov" => "ilias.ihsanov@gmail.com" }
 s.platform     = :ios, "11.0"
 s.ios.vendored_frameworks = 'MircodSDK.framework'
-s.source       = { :http => "https://github.com/IIkhsan/SimpleSDKTest/blob/master/MircodSDK.zip"}
+s.source       = { :http => "https://github.com/IIkhsan/SimpleSDKTest/blob/master/MircodSDK.zip?raw=true"}
 s.exclude_files = "Classes/Exclude"
 
 end
